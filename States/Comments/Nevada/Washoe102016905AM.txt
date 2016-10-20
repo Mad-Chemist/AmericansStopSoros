@@ -1,0 +1,9 @@
+State: Nevada
+County: Washoe County
+Date and Time: Thu, Oct 20 9:05AM
+Person Contacted: Luanne Cutler
+Position: Registrar of Voters
+
+Summary: Explained concern of conflict of interest in regards to 
+Smartmatic. LC advised that a different technology was in use within the
+ county, Dominion Voting Edge Touchscreen.
