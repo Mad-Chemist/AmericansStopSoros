@@ -3,3 +3,7 @@ Further investigation into the Commonwealth of Virginia leads to this page on th
 [http://www.elections.virginia.gov/registration/voting-systems/index.html](http://www.elections.virginia.gov/registration/voting-systems/index.html)
 
 This conflicts with Smartmatic's claims of having machines in use in Virginia. Perhaps some of the listed vendors are subsidiaries, or otherwise affiliated? Or it's possible that Smartmatic's claims are exaggerated and VA, at least, is clear from the conflict of interest under investigation.
+
+#Update
+
+Sequoia is a subsidiary of Smartmantic. Consider them one in the same.
