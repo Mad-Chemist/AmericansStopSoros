@@ -1,0 +1,7 @@
+State: VIRGINIA County: ALBEMARLE ( Albemarle County Board of Elections Charlottesville, VA 22902 434-972-4173 )
+
+Result: Albemarle County uses voting machines from a manufacturer who is likely not affected by the conflict of interest which is the subject of this project.
+
+Official's Comments: Albemarle County's machines are manufactured by ES&S [Election Systems & Software], a company located in Omaha, Nebraska. [http://www.essvote.com/](http://www.essvote.com/)
+
+Your Comments: Albemarle County recently voted to replace machines county-wide with paper-backed "Scantron-style" ballots which are electronically tabulated. I believe they are all part of the Digital Scan Tabulators series: [http://www.essvote.com/products/13/digital-scan-tabulators/](http://www.essvote.com/products/13/digital-scan-tabulators/)
