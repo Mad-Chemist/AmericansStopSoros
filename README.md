@@ -1,4 +1,4 @@
-#Alert Message: Dominion/Sequoia is/was a subsidiary of Smartmantic. It's a complicated story. They should be treated the same. See: https://www.reddit.com/r/The_Donald/comments/58mkiw/stopsoros_dominion_voting_systems/ for more information
+#Alert Message: Dominion/Sequoia is/was a subsidiary of Smartmantic. It's a complicated story. They should be treated the same. See: [reddit post](https://www.reddit.com/r/The_Donald/comments/58mkiw/stopsoros_dominion_voting_systems/) for more information
 
 # The Americans Stop Soros Movement
 ### Protecting our electoral freedom from foreign actors and conflicts of interest!
