@@ -1,4 +1,4 @@
-#Alert Message: Sequoia is/was a subsidiary of Smartmantic. They should be treated the same.
+#Alert Message: Dominion/Sequoia is/was a subsidiary of Smartmantic. It's a complicated story. They should be treated the same. See: https://www.reddit.com/r/The_Donald/comments/58mkiw/stopsoros_dominion_voting_systems/ for more information
 
 # The Americans Stop Soros Movement
 ### Protecting our electoral freedom from foreign actors and conflicts of interest!
@@ -22,18 +22,18 @@ Repeat this for 16 different states...**
 
 > That's when I decided I needed some help.
 
-> I'm compiling a list of every single county's Board of Elections in all 16 states affected by the Smartmatic[Sequoia]/Soros machines so we can spam it to the entire internet and get everyone calling their local government, and get them to switch to paper ballots. **Soros is trying to steal the election. We're going to steal it back!**
+> I'm compiling a list of every single county's Board of Elections in all 16 states affected by the Dominion/Sequoia/Smartmatic/Soros machines so we can spam it to the entire internet and get everyone calling their local government, and get them to switch to paper ballots. **Soros is trying to steal the election. We're going to steal it back!**
 
 > The 16 affected states are:
 Arizona, California, Colorado, DC, Florida, Illinois, Louisiana, Michigan, Missouri, New Jersey, Nevada, Oregon, Pennsylvania, Virginia, Washington, Wisconsin.
 
 For more information visit: [reddit](https://www.reddit.com/r/The_Donald/comments/58ffs6/operation_stop_soros_crowd_sourced_weaponized/)  [reddit2](https://www.reddit.com/r/The_Donald/comments/58g0ce/operation_stop_soros_crowd_sourced_weaponized/) or [/pol/](https://boards.4chan.org/pol/thread/93781257) [/pol/2](https://boards.4chan.org/pol/thread/93796259)
 
-tl;dr: George Soros is loosely involved with a company (Sequoia/Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
+tl;dr: George Soros is loosely involved with a company (Dominion/Sequoia/Smartmatic) that supplies voting machines for the affected aforementioned 16 states. These states are almost all democratic or swing states.
 
-# Sequoia/Smartmatic
+# Dominion/Sequoia/Smartmatic
 
-They are the vechile of Soros' potentially weaponized voting machines. Sequoia/Smartmatic has been suspected in rigging elections in other countries which can be found in this 1.4(b) classified [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
+They are the vechile of Soros' potentially weaponized voting machines. Dominion/Sequoia/Smartmatic has been suspected in rigging elections in other countries which can be found in this 1.4(b) classified [leaked document](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html) from Wikileaks.
 
 What is Seqouia? Why did the officials tell me they use Seqouia and not Smartmatic? "The company is thought to be backing out of Venezuelan electoral events, focusing now on other parts of world, including the United States via its subsidiary, Sequoia." is a quote from the leaked election rigging document from Wikileaks found [here](https://wikileaks.org/plusd/cables/06CARACAS2063_a.html).
 
