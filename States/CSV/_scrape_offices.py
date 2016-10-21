@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-
+import json
 import csv,codecs,cStringIO
 
 class UTF8Recoder:
@@ -48,6 +48,8 @@ class UnicodeWriter:
 states = ['az', 'ca', 'co', 'dc', 'fl', 'il', 'la', 'mi', 'mo', 'nv', 'nj',
           'or', 'pa', 'va', 'wa', 'wi']
 
+json_data = {}
+
 for state in states:
     url = 'http://www.countyoffice.org/'+state+'-elections/'
     print "Scraping: " + url
@@ -55,12 +57,12 @@ for state in states:
     scraped = BeautifulSoup(r.text, 'html.parser')
     table = scraped.find("div", class_="box-listings-2").find("table")
     links = table.find_all("td", class_="office-link")
+    state_json = []
 
     with open(state+'.csv', 'wb') as csv_file:
         csv_writer = UnicodeWriter(csv_file, delimiter=',')
         csv_writer.writerow(['name', 'address', 'city', 'state', 'zip',
                              'phone', 'fax'])
-
         
         for link in links:
             a = link.find("a").get("href")
@@ -83,3 +85,18 @@ for state in states:
                 fax = ""
 
             csv_writer.writerow([name, address, city, state, zip, phone, fax])
+            state_json.append({
+                "name": name,
+                "address": address,
+                "city": city,
+                "state": state,
+                "zip": zip,
+                "phone": phone,
+                "fax": fax
+                })
+            
+    json_data[state] = state_json
+
+json_file = open("../json/states.json", "wb")
+json_file.write(json.dumps(json_data))
+json_file.close()
